@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/115158621?v=4" width="180" style="border-radius:50%" alt="Vinay's Avatar">
+
 
 # Hi, I'm Vinay! 👋
 
@@ -9,9 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
-</p>
 
 ---
 
@@ -32,7 +29,6 @@ Here, I'm pushing my boundaries as a developer, diving deep into WordPress, APIs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60" alt="WordPress" title="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" alt="Laravel/Blade" title="Laravel/Blade"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" title="GitHub"/>
@@ -40,13 +36,6 @@ Here, I'm pushing my boundaries as a developer, diving deep into WordPress, APIs
 </p>
 
 ---
-
-## 🎯 Why rtCamp? Why Me?
-
-- **Passion for WordPress:** Building themes, plugins, and REST APIs from scratch!
-- **Team Player:** Collaboration, code reviews, and learning from the best.
-- **Continuous Growth:** Always seeking new challenges and leveling up my skills.
-- **Open Source Spirit:** Giving back, sharing knowledge, and building for impact.
 
 ---
 
@@ -77,12 +66,6 @@ Here, I'm pushing my boundaries as a developer, diving deep into WordPress, APIs
 
 ---
 
-## 💪 Preparing for rtCamp
-
-- Mastering advanced WordPress plugin & theme development
-- Building and consuming REST APIs
-- Practicing teamwork, code reviews, and remote collaboration
-- Contributing to open source and the WordPress community
 
 > **Ambition:**  
 > *To join rtCamp and make a real impact in the WordPress ecosystem—one commit at a time!*
@@ -118,13 +101,6 @@ Here, I'm pushing my boundaries as a developer, diving deep into WordPress, APIs
 - Always up for a challenge and creative teamwork
 - Favorite emoji: 🚀
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" alt="coding animation"/>
-</p>
-
----
 
 <!--
 ✨ This README appears at the top of your GitHub profile! ✨
