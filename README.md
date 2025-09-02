@@ -11,16 +11,6 @@
 
 
 ---
-
-# 🚀 My rtCamp Journey Begins!
-
-> **Preparing for rtCamp: A New Adventure in WordPress Excellence 🚩**
-
-I am on a mission to join **rtCamp** — a place where WordPress innovation meets teamwork, learning, and real impact.  
-Here, I'm pushing my boundaries as a developer, diving deep into WordPress, APIs, and collaborative open source.
-
----
-
 ## 🌟 Skills & Tech Stack
 
 <p align="center">
